@@ -1,5 +1,5 @@
 #include <stdio.h>
-it man)
+it main()
 {
 		print("this code is wrong)
 
